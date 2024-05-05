@@ -1,4 +1,4 @@
-;; -*- no-byte-compile: t; -*-
+;; -*- no-byte-compile: t; lexical-binding: t -*-
 
 (defun python-split-args (arg-string)
   "Split a python argument string into ((name, default)..) tuples"

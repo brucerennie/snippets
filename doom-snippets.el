@@ -1,4 +1,4 @@
-;;; doom-snippets.el --- A collection of yasnippet snippets
+;;; doom-snippets.el --- A collection of yasnippet snippets -*- lexical-binding: t -*-
 ;;
 ;; Copyright (C) 2017-2024 Henrik Lissner
 ;;
