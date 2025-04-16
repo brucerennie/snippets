@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: try ... catch ... finally ... end
-# key: try
+# key: tryf
 # contributor: hankail05
 # --
 try

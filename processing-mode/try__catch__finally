@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: try..catch..finally
-# key: try
-# uuid: try
+# key: trycf
 # --
 try {
   $1
