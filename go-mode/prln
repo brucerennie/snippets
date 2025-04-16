@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-# name: println (short)
+# name: println(...)
 # --
-fmt.Println("${1:msg}")$0
+(doom-snippets-expand :uuid "println")

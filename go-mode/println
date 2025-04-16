@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
-# name: println
+# name: println(...)
+# uuid: println
 # --
 fmt.Println("${1:msg}")$0
