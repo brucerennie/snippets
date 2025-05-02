@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: max array
-# key: max
-# uuid: max
+# key: maxa
 # --
 max(${1:array}};

@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: hour
-# key: time
-# uuid: time
+# key: hour
 # --
-hour()$0
+hour()

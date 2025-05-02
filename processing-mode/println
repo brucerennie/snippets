@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: println
 # key: println
-# uuid: println
 # --
-println("$1");$0
+println("$1");

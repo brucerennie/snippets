@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: noFill
-# key: noFill
-# uuid: noFill
+# key: nof
 # --
 noFill();

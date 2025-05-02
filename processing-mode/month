@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: month
-# key: time
-# uuid: time
+# key: mo
 # --
-month()$0
+month()

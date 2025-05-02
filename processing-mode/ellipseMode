@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: ellipseMode
-# key: ellipseMode
-# uuid: ellipseMode
+# key: ellipsem
 # --
 ellipseMode(${1:CENTER});

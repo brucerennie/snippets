@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: endRecord
-# key: file
-# uuid: file
+# key: endr
 # --
 endRecord();

@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: screen.height
-# key: screen
-# uuid: screen
+# key: screenh
 # --
-screen.height$0
+screen.height

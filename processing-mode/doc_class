@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: doc - class
-# key: doc
-# uuid: doc
+# key: docc
 # --
 /**
  *  ${1:Description}

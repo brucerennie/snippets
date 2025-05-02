@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: screenX
-# key: coordinates
-# uuid: coordinates
+# key: screenx
 # --
 screenX(${1:x}, ${2:y}, ${3:z});

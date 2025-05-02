@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: Parameters
-# key: par
-# uuid: par
+# key: pars
 # --
 Parameters $1: $2

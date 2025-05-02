@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: ifelse
 # key: if
-# uuid: if
 # --
 if(${1:cond})
         $2

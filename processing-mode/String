@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: String
-# key: string
-# uuid: string
+# key: str
 # --
 String ${1:str} ${6:= "${3:CCCP}"};

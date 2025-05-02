@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: HALF PI
-# key: pi
-# uuid: pi
+# key: hpi
 # --
-HALF_PI$0
+HALF_PI

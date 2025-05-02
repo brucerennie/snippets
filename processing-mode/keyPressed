@@ -1,8 +1,7 @@
 # -*- mode: snippet -*-
-# name: keyPressed
-# key: key
-# uuid: key
+# name: void keyPressed() {...}
+# key: keyp
 # --
-void keyPressed(){
-  ${1}
+void keyPressed() {
+  `%`$0
 }

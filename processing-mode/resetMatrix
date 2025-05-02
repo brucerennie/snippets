@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: resetMatrix
-# key: matrix
-# uuid: matrix
+# key: resetMatrix
 # --
 translate(${1:x}, ${2:y}, ${3:z});

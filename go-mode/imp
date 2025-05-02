@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: import
+# uuid: imp
+# type: command
 # --
-import (
-    ${1:package}$0
-)
+(doom-snippets-expand :uuid "import")

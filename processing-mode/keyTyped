@@ -1,8 +1,7 @@
 # -*- mode: snippet -*-
-# name: keytyped
-# key: key
-# uuid: key
+# name: void keytyped() {...}
+# key: keyt
 # --
 void keyTyped(){
-  ${1}
+  `%`$0
 }

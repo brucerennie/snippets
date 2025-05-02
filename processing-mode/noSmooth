@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: noSmooth
-# key: smooth
-# uuid: smooth
+# key: nos
 # --
 noSmooth();

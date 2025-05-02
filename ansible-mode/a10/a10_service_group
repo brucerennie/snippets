@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name : Manage A10 Networks AX/SoftAX/Thunder/vThunder devices
-# key : a10_service_group
+# name: Manage Grouped A10 Networks AX/SoftAX/Thunder/vThunder devices
+# key: a10_service_group
 # condition: ansible
 # --
 - name: ${1:Manage A10 Networks AX/SoftAX/Thunder/vThunder devices}

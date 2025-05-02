@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: rotate
 # key: rotate
-# uuid: rotate
 # --
 rotate(${1:angle});

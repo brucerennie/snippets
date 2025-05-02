@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: printCamera
-# key: camera
-# uuid: camera
+# key: printc
 # --
 printCamera();

@@ -1,8 +1,7 @@
 # -*- mode: snippet -*-
-# name: mouseMoved
-# key: mouse
-# uuid: mouse
+# name: void mouseMoved() {...}
+# key: mousem
 # --
-void mouseMoved(){
-  ${1}
+void mouseMoved() {
+  `%`$0
 }

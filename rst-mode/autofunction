@@ -1,6 +1,4 @@
 # -*- mode: snippet -*-
 # name: autofunction
-# key: auto
-# uuid: auto
 # --
 .. autofunction:: $0

@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: noStroke
-# key: noStroke
-# uuid: noStroke
+# key: nost
 # --
 noStroke();

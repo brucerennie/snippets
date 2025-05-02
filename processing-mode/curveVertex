@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: curveVertex
-# key: curvevertex
-# uuid: curvevertex
+# key: curvev
 # --
 curveVertex(${1:x}, ${2:y});

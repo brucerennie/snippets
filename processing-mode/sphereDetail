@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: sphereDetail
-# key: sphere
-# uuid: sphere
+# key: sphereDetail
 # --
 sphereDetail(${1:n});

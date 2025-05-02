@@ -1,8 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Alejandro Espinoza Esparza <aespinoza@structum.com.mx>
 # name: private attribute ....;
-# key: attrib
-# uuid: attrib
+# key: attr
 # --
 /// <summary>
 /// $3

@@ -1,6 +1,4 @@
 # -*- mode: snippet -*-
 # name: textAscent
-# key: text
-# uuid: text
 # --
 textAscent();

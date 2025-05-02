@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: text stringdata
-# key: text
-# uuid: text
+# key: textsd
 # --
 text(${1:stringdata}, ${2:x}, ${3:y}, ${4:width}, ${5:height}${7:, ${6:z}});

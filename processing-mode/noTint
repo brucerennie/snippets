@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: noTint
-# key: noTint
-# uuid: noTint
+# key: not
 # --
 noTint();

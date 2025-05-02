@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: exists
 # key: ex
-# uuid: ex
 # --
 exists $1

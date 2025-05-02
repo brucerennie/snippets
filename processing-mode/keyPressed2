@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
-# name: keyPressed 2
-# key: key
-# uuid: key
+# name: keyPressed
+# key: kp
 # --
-keyPressed$0
+keyPressed

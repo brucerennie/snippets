@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: glGenBuffers
 # key: glGenBuffers
-# uuid: glGenBuffers
 # --
 // import java.nio.IntBuffer;
 // import java.nio.FloatBuffer;

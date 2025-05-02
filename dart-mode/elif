@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: M. Yas. Davoodeh
-# name: if else
+# name: else if
 # --
 else if ($1) {
   $0

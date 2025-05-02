@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: shininess
-# key: material
-# uuid: material
+# key: shininess
 # --
 shininess(${1:shine});

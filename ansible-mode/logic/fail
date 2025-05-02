@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name : Fail with custom message
-# key : fail
+# name: Fail with custom message
+# key: fail
 # condition: ansible
 # --
 - name: ${1:Fail with custom message}

@@ -1,8 +1,8 @@
 # -*- mode: snippet -*-
 # name: public function
-# key: public
-# uuid: public
+# key: publicf
+# uuid: publicf
 # --
 public ${1:void} ${2:name}($3) {
-    $0
+    `%`$0
 }

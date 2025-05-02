@@ -1,8 +1,7 @@
 # -*- mode: snippet -*-
 # name: pushMatrix
 # key: matrix
-# uuid: matrix
 # --
 pushMatrix();
-${1:};
+`%`$0;
 popMatrix();

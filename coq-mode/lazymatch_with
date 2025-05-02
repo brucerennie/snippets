@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: lazymatch with
-# key: m
-# uuid: m
+# key: lmw
 # --
 lazymatch $1 with
 | $2 => $3

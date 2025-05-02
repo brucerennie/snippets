@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: curveDetail
-# key: curve
-# uuid: curve
+# key: curved
 # --
 curveDetail(${1:detail});

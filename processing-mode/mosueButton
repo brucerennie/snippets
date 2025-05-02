@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: mouseButton
-# key: mouse
-# uuid: mouse
+# key: mb
 # --
 mouseButton$0

@@ -1,6 +1,4 @@
 # -*- mode: snippet -*-
 # name: strokeWeight
-# key: stroke
-# uuid: stroke
 # --
 strokeWeight(${1:1});

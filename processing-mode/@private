@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: @private
-# key: @
-# uuid: @
+# key: @pri
 # --
-@private$0
+@private

@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: mouseY
-# key: mouse
-# uuid: mouse
+# key: my
 # --
-mouseY$0
+mouseY

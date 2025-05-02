@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: pmouseX
-# key: mouse
-# uuid: mouse
+# key: pmx
 # --
-pmouseX$0
+pmouseX

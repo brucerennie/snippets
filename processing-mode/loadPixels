@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: loadPixels
 # key: loadPixels
-# uuid: loadPixels
 # --
 loadPixels();

@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: instdir
-# key: $
-# uuid: $
+# key: $i
 # --
 $INSTDIR

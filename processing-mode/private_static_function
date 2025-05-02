@@ -1,8 +1,7 @@
 # -*- mode: snippet -*-
 # name: private static function
-# key: private
-# uuid: private
+# key: privatesf
 # --
 private static ${1:void} ${2:name}($3) {
-  $0
+  `%`$0
 }

@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: bezierPoint
-# key: bezier
-# uuid: bezier
+# key: bezierp
 # --
 bezierPoint(${1:a}, ${1:b}, ${1:c}, ${1:d}, ${1:t});

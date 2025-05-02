@@ -1,6 +1,4 @@
 # -*- mode: snippet -*-
 # name: throw
-# key: throw
-# uuid: throw
 # --
 throw new Exception("${1:Name}");

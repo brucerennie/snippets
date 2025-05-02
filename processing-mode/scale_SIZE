@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: scale SIZE
-# key: scale
-# uuid: scale
+# key: scales
 # --
 scale(${1:size});

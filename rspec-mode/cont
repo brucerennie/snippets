@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: context 'modifier' do ... end
+# uuid: cont
+# type: command
 # --
-context \'${1:modifier}\' do
-  $0
-end
+(doom-snippets-expand :uuid "context")

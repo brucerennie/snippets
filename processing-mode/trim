@@ -1,6 +1,4 @@
 # -*- mode: snippet -*-
 # name: trim
-# key: trim
-# uuid: trim
 # --
 trim(${3:str});

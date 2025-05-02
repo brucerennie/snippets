@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: screen.width
-# key: screen
-# uuid: screen
+# key: screenw
 # --
-screen.width$0
+screen.width

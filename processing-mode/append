@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
-# name: foreach
-# key: for
-# uuid: for
+# name: append
+# key: app
 # --
 append(${1:array}, ${2:element});

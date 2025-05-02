@@ -1,7 +1,5 @@
 # -*- mode: snippet -*-
 # name: graphviz
-# key: graph
-# uuid: graph
 # --
 .. graphviz::
 

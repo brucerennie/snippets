@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: saveStrings
-# key: file
-# uuid: file
+# key: saveStrings
 # --
 saveStrings(${1:filename}, ${2:strings});

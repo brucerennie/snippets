@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: noCursor
-# key: cursor
-# uuid: cursor
+# key: noc
 # --
 noCursor();

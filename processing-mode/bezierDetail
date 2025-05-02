@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: bezierDetail
-# key: bezier
-# uuid: bezier
+# key: bezierd
 # --
 bezierDetail(${1:detail});
